@@ -1,0 +1,3866 @@
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+@media screen and (min-width: 1441px) and (max-width: 1530px) {
+    .container {
+        max-width: 1300px;
+    }
+}
+@media screen and (min-width: 1531px) and (max-width: 1800px) {
+    .container {
+        max-width: 1400px;
+    }
+}
+@media screen and (min-width: 1801px) {
+    .container {
+        max-width: 1730px;
+    }
+}
+@media screen and (min-width: 992px) {
+    .menu-nav ul li .dropdown-submenu li > a:hover{
+        color: var(--pink-color);
+    }
+    .menu-nav ul li.has-submenu:hover .jaam_menu_toggle i{
+        transform: rotate(-180deg);
+    }
+}
+
+
+@media screen and (min-width: 1920px) {
+
+
+}
+
+
+@media screen and (max-width: 1800px){
+    /******************** Index page Start *********************/
+    .deine-blocks {
+        margin: 0 -15px;
+    }
+    .deine-single {
+        padding: 0 15px;
+    }
+    .jetzt--inner-left-image {
+        height: 100%;
+    }
+    .jetzt--inner-left-image img {
+        height: 100%;
+        object-fit: cover;
+    }
+    .jetzt-left-col {
+        width: 650px;
+    }
+    .jetzt-right-col {
+        width: calc(100% - 650px);
+        padding-right: 15px;
+    }
+    /******************** Index page End *********************/
+
+    /******************** Leistung Start *********************/
+    .beauty_left_blog_section .beauty-blog--right-col {
+        width: 970px;
+    }
+    .beauty_left_blog_section .beauty-blog--inner-image-block:after{
+        max-width: 920px;
+    }
+    .beauty_left_blog_section .beauty-blog--left-col {
+        width: calc(100% - 970px);
+    }
+    .beauty_left_blog_section .schon-gewusst--block{
+        max-width: 551px;
+    }
+
+    .haare_dauerhaft_section{
+        margin-top: 180px;
+    }
+    .nueste_details p{
+        margin-top: 70px;
+    }
+    .common-title h3{
+        font-size: 42px;
+    }
+    /******************** Leistung End *********************/
+
+    /******************** Preis page Start *********************/
+    .gutschein_contain p{
+        font-size: 24px;
+    }
+    .percentage_section p{
+        font-size: 160px;
+    }
+    .gutschein_contain h3{
+        font-size: 50px;
+    }
+    .gutschein_contain{
+        margin-left: 20px;
+    }
+    .beauty_card_section p{
+        font-size: 30px;
+    }
+
+    .beauty_price_border{
+        padding: 90px 60px 90px;
+    }
+    .beauty_price_table_fill{
+        padding: 15px;
+    }
+    .beauty_top_bar {
+        padding: 15px;
+    }
+    .beauty_top_bar_fill{
+        padding: 17px 35px;
+        padding-right: 70px;
+    }
+    .beauty_price_left ul li + li, .beauty_price_right ul li + li {
+        margin-top: 50px;
+    }
+    /******************** Preis page End *********************/
+
+}
+@media screen and (max-width: 1700px){
+    .nueste_main_slider_section .common-title h3{
+        font-size: 38px;
+    }
+    .angebote_bg_section:after {
+        width: 33%;
+    }
+}
+@media screen and (max-width: 1600px){
+    .preis_angebote .paket_box_section,
+    .nueste_main_slider_section,
+    .leistung_page .behandlung_section,
+    .leistung_page .beauty_left_blog_new_section{
+        padding-top: 100px;
+    }
+    .nueste_main_slider_section .big-title{
+        margin-bottom: -60px;
+    }
+    .preis_beauty_btn{
+        margin-bottom: 100px;
+    }
+    .termin-btn a{
+        font-size: 20px;
+    }
+    .home-modal-trigger a {
+        width: 80px;
+        height: 80px;
+    }
+    .home-modal-trigger {
+        position: absolute;
+        bottom: 60px;
+        right: 20px;
+    }
+    .home-modal-trigger a img {
+        width: 60%;
+    }
+    .banner-section {
+        height: 800px;
+    }
+    .banner--left .main_title, .beauty-section .beauty_title h2 {
+        font-size: 55px;
+    }
+    .banner--left .subtext {
+        font-size: 25px;
+    }
+    .banner--left .banner--content {
+        margin-top: 25px;
+        margin-bottom: 35px;
+        font-size: 20px;;
+        max-width: 550px;
+    }
+    .cm-btn {
+        font-size: 20px;
+        padding: 15px;
+    }
+    .menu-nav ul li.termin-btn a {
+        padding: 15px;
+    }
+    .kontakt-btn-block ul li a {
+        font-size: 20px;
+        padding: 10px;
+    }
+    .beauty_paragraph {
+        padding-top: 120px;
+    }
+    .beauty_title .vertical_line {
+        top: 110px;
+        height: 40px;
+    }
+    .beauty-section {
+        padding: 100px 0;
+    }
+    .big-title h2 {
+        font-size: 100px;
+    }
+    .deine-image img {
+        min-height: 400px;
+        max-height: 400px;
+    }
+    .deine-title a, .bewertungen-section-title, .onlinr-heading, .quiz-white-box-title h3, .common-title h3, .nueste_main_slider_section .common-title h3{
+        font-size: 35px;
+    }
+    .deine-blocks .deine-single:nth-child(2) {
+        margin-top: 110px;
+    }
+    .deine-blocks .deine-single:nth-child(3) {
+        margin-top: 220px;
+    }
+    .mehr-dazu, .bewertungen-sub-title {
+        font-size: 20px;
+    }
+    .deine-left-side-panel {
+        height: 800px;
+        bottom: 40px;
+    }
+    .bewertungen-section {
+        padding-top: 80px;
+    }
+    .bewertungen-section .big-title {
+        margin-bottom: -65px;
+    }
+    .bewertungen-right {
+        top: unset;
+        bottom: 3%;
+    }
+    .bewertungen-sub-title{
+        margin-bottom: 50px;
+    }
+    .bewertungen-left, .bewertungen-btn {
+        max-width: 55%;
+    }
+    .bewertungen-right .bewertungen-img-bg {
+        padding: 50px;
+    }
+    .online-test-section .online-left-inner {
+        padding-left: 100px;
+    }
+    .online-test-section .big-title {
+        margin-bottom: 35px;
+    }
+    .online-test-section {
+        padding-top: 300px;
+    }
+    .online-btn {
+        margin-top: 30px;
+    }
+    .auf-alles-title h3 {
+        font-size: 60px;
+    }
+    .auf-alles-label p {
+        font-size: 30px;
+    }
+    .auf-alles-desc p {
+        font-size: 25px;
+        max-width: 560px;
+    }
+    .jetzt-gutschein-section {
+        padding: 70px 0 0;
+    }
+    .jetzt-gutschein-section .big-title {
+        margin-bottom: -63px;
+    }
+    .jetzt-right--inner-bg-block {
+        padding-top: 100px;
+    }
+    .quiz-gewinnspiel-section .big-title {
+        margin-bottom: -50px;
+    }
+    .quiz-gewinnspiel-section {
+        padding: 100px 0;
+    }
+    .was-konnen-sie-bg-img h4 {
+        font-size: 32px;
+    }
+    .was-konnen-sie-bg-img {
+        min-height: 120px;
+    }
+    .beauty-blog--left-col {
+        width: calc(100% - 900px);
+        padding: 0 15px;
+    }
+    .beauty-blog--right-col {
+        width: 900px;
+    }
+    .beauty-blog-img {
+        max-width: 785px;
+    }
+    .beauty-blog--inner-image-block:after {
+        max-width: 800px;
+    }
+    .beauty-blog-section .big-title {
+        margin-bottom: -45px;
+    }
+    .common-desc {
+        max-width: 500px;
+        margin: 0 auto;
+        padding-top: 30px;
+    }
+    .wir-desc p, .wir-btn .cm-btn {
+        font-size: 16px;
+    }
+    .faq-section {
+        padding: 100px 0 0;
+    }
+    .faq-section .big-title {
+        margin-bottom: -50px;
+    }
+    .faq-owl-slider-block {
+        max-width: 100%;
+    }
+    .faq-owl .item {
+        padding: 0 15px;
+    }
+    .faq-owl {
+        margin: 0 -15px;
+    }
+    .kostenlose-probe-section {
+        padding: 100px 0;
+    }
+    .footer-logo-text h3 {
+        font-size: 50px;
+        margin: 10px 0 40px;
+    }
+    .footer-social-icon {
+        padding-top: 50px;
+    }
+
+    /******************** Leistung Start *********************/
+    .leistung_tab_title{
+        padding: 22px 15px;
+    }
+    .leistung_tab_title ul li a{
+        font-size: 20px;
+    }
+    .leistung_main_contain_section {
+        padding-top: 50px;
+    }
+    .leistung_img_fill svg{
+        width: 75px;
+        height: 75px;
+    }
+    .leistung_margin_bottom {
+        margin-bottom: 70px;
+    }
+    .leistung_end_contain{
+        margin-right: 40px;
+    }
+
+    .beauty_left_blog_section .beauty-blog--right-col {
+        width: 865px;
+    }
+    .beauty_left_blog_section .beauty-blog--inner-image-block:after{
+        max-width: 800px;
+    }
+    .beauty_left_blog_section .beauty-blog--left-col {
+        width: calc(100% - 865px);
+    }
+    .beauty_left_blog_section .schon-gewusst--block {
+        max-width: 500px;
+    }
+    .beauty_left_blog_section {
+        padding: 100px 0 0px;
+    }
+    .beauty_blog_list ul li + li {
+        margin-top: 15px;
+    }
+    .haare_dauerhaft_section{
+        margin-top: 150px;
+    }
+    .ebene-gewinnspiel-shape-img {
+        position: absolute;
+        right: -25%;
+        top: -93%;
+        z-index: -1;
+        transform: scale(0.8);
+    }
+    .nueste_details p {
+        margin-top: 55px;
+        max-width: 215px;
+    }
+
+    .paket_box_section {
+        padding: 90px 0 45px;
+    }
+    .angebote_section {
+        padding: 70px 0 0;
+    }
+    .box_title {
+        margin-top: 45px;
+    }
+    .box_big_contain {
+        font-size: 50px;
+    }
+    .box_title, .box_title_1X{
+        font-size: 25px;
+    }
+    .box_big_contain {
+        margin-top: 10px;
+    }
+    .karte_contain {
+        padding: 8px 20px;
+    }
+    .karte_contain p{
+        font-size: 32px;
+    }
+    .schon-gewusst-btn {
+        margin-top: 20px;
+    }
+    .angebote-left-shape-img{
+        left: -30%;
+    }
+    .angebote-right-shape-img{
+        right: -7%;
+    }
+    .termin_btn{
+        padding: 15px 35px;
+    }
+    .wollen-btn{
+        padding: 15px 25px;
+    }
+    /******************** Leistung End *********************/
+
+    /******************** Preis Start *********************/
+    .beauty_price_border {
+        padding: 75px 60px 50px;
+    }
+    .beauty_price_left ul li + li, .beauty_price_right ul li + li {
+        margin-top: 40px;
+    }
+    .beauty_title h3{
+        font-size: 22px;
+    }
+    .beauty_price_new h4{
+        font-size: 34px;
+    }
+    .beauty_price_right .beauty_price_new p{
+        font-size: 30px;
+    }
+    /******************** Preis End *********************/    
+
+    /******************* Contact Page Start ******************/
+    /* Contact Section start */
+    .contact-common-img {
+        width: 120px;
+    }
+    .location .location_info span,
+    .location .location_info p,
+    .clock-outer .clock_info,
+    .call-outer .call_info span {
+        font-size: 20px;
+    }
+    .contact_section .location .location_img,
+    .contact_section .call .call_img,
+    .contact_section .clock .clock-img {
+        padding: 15px;
+    }
+    .contact_section {
+        padding-top: 100px;
+    }
+    /* Contact Section End */
+
+    /* Form Section Start */
+    .form_section .form-title h2 {
+        padding-bottom: 50px;
+    }
+    .form_section .form-title h2 {
+        font-size: 35px;
+    }
+    /* Form Section End */
+
+    /* Map Section Start */
+    .map_section .contact_map_section iframe {
+        height: 600px;
+    }
+    /* Map Section End */
+
+    /******************* Contact Page End ******************/
+
+
+    /******************* News Page Start ******************/
+    /* Service Section Start */
+    .service_innerbox,
+    .service_info_box {
+        bottom: 35px;
+    }
+    .innerbox_title h3 {
+        font-size: 28px;
+    }
+    .service_card_section {
+        padding-bottom: 120px;
+    }
+    .service_card .service_box_footer a {
+        font-size: 20px;
+    }
+    .service_box_footer img,
+    .innerbox_footer img {
+        margin-left: 10px;
+    }
+    /* Service Section End */
+    /******************* News Page End ******************/
+
+    /******************* Uber Page Start ******************/
+    /* Unser Team Section Start */
+    .unser_team_section .unser_team_cards {
+        row-gap: 70px;
+    }
+    .unser_team_section .unser_team_title h2,
+    .gallery_section .gallary_title h2 {
+        font-size: 45px;
+    }
+    .unser_team_section .bg_image_bottom {
+        max-width: 18%;
+    }
+    /* Unser Team Section End */
+
+    /*Gallery Section Start */
+    .gallery_section .gallery_right_side {
+        margin-top: -50px;
+    }
+    .gallery_section .right_side_info p,
+    .gallery_section .gallery_second_info p,
+    .gallery_third_section .top_part_info p,
+    .gallery_third_section .bottom_part_info p {
+        font-size: 38px;
+    }
+    .gallery_section .gallery_second_section .container,
+    .gallery_section .gallery_third_section .container {
+        max-width: 1400px;
+    }
+
+    .neuste-shape-img{
+        transform: scaleY(0.8);
+    }
+    /*Gallery Section End */
+    /******************* Uber Page End ******************/
+}
+
+@media screen and (max-width: 1530px){
+    /******************** Leistung Start *********************/
+    .leistung_img_fill svg {
+        width: 65px;
+        height: 65px;
+    }
+    .leistung_img_border {
+        padding: 10px;
+    }
+    .leistung_img_fill{
+        padding: 18px;
+    }
+    .leistung_img_details p{
+        margin: 13px 0px;
+    }
+    .leistung_margin_bottom {
+        margin-bottom: 60px;
+    }
+    .leistung_end_contain{
+        margin-right: 20px;
+    }
+    .leistung_img {
+        margin-right: 40px;
+    }
+    .haare_dauerhaft_section{
+        margin-top: 100px;
+    }
+    .behandlung_section .ebene-gewinnspiel-shape-img {
+        left: -27%;
+        top: -61%;
+        z-index: -2;
+    }
+    /******************** Leistung Start *********************/
+
+    /******************* Contact Page Start ******************/
+    /* Banner Section Start */
+    .contact-page-section .banner-social-icons {
+        max-width: 170px;
+    }
+    /* Banner Section End*/
+
+    /* Form Section Start */
+    .form_section .form-title h2 {
+        padding-bottom: 50px;
+    }
+    .form_section {
+        padding: 60px 0;
+    }
+    /* Form Section End */
+    /******************* Contact Page End ******************/
+
+    /******************* News Page Start ******************/
+    /* Service Section Start */
+    .service_innerbox .innerbox_footer a {
+        font-size: 20px;
+    }
+    /* Service Section End */
+
+    /* Service card Section Start */
+    .service_card .service_box_footer a {
+        font-size: 18px;
+    }
+    /* Service card Section End */
+    /******************* News Page End ******************/
+
+    /******************* Uber Page Start ******************/
+    /* Unser Team Section Start */
+    .unser_team_section {
+        padding: 70px 0px;
+    }
+    .unser_team_section .unser_team_cards {
+        padding: 60px 0;
+    }
+    .unser_team_section .team_title {
+        padding-top: 40px;
+    }
+    .unser_team_section .unser_card_img {
+        max-width: 300px;
+    }
+    .unser_team_section .bg_image_top {
+        top: -30px;
+        max-width: 23%;
+    }
+    /* Unser Team Section End */
+    /******************* Uber Page End ******************/
+}
+
+@media screen and (max-width: 1500px){}
+
+@media screen and (max-width: 1440px){
+    .preis_angebote .paket_box_section,
+    .nueste_main_slider_section,
+    .leistung_page .behandlung_section, 
+    .leistung_page .beauty_left_blog_new_section, 
+    .leistung_page .beauty_left_blog_section{
+        padding-top: 80px;
+    }
+    .bewertungen-right{
+        bottom: 13%;
+    }
+    .preis_beauty_btn{
+        margin-bottom: 80px;
+    }
+    .behandlung_section .schon-gewusst--block{
+        margin-top: unset;
+    }
+    .banner-section {
+        height: 700px;
+        margin-bottom: 70px;
+    }
+    .kontakt-modal-block .modal-body {
+        padding: 55px 110px;
+    }
+    .kontakt-modal-block .modal-header .close {
+        right: -80px;
+        width: 50px;
+        height: 50px;
+    }
+    .kontakt-modal-block .modal-header .close img{
+        max-width: 50%;
+    }
+    .deine-image img {
+        min-height: 350px;
+        max-height: 350px;
+    }
+    .deine-left-side-panel {
+        bottom: 0;
+    }
+    .bewertungen-sub-title {
+        margin-bottom: 40px;
+    }
+    .online-left-inner:after {
+        width: calc(100% - 150px)
+    }
+    .online-left, .online-right {
+        width: 50%;
+    }
+    .ribbon-img-block {
+        max-width: 280px;
+    }
+    .gift-box {
+        width: 180px;
+        height: 180px;
+        left: -90px;
+    }
+    .gift-title h4 {
+        font-size: 18px;
+        margin: 6px 0;
+    }
+    .git-icon svg{
+        max-width: 40px;
+    }
+    .beauty-blog--right-col {
+        width: 750px;
+    }
+    .beauty-blog--left-col {
+        width: calc(100% - 750px);
+    }
+    .beauty-blog-img {
+        max-width: 588px;
+    }
+    .beauty-blog--inner-image-block:after {
+        max-width: 650px;
+    }
+    .faq-box {
+        padding: 40px 15px 15px;;
+    }
+    .kp-col {
+        padding: 0 15px;
+    }
+    .kostenlose-probe-row {
+        margin: 0 -15px;
+    }
+    .kostenlose-probe-box .wir-empfehlen-img {
+        width: 130px;
+    }
+    .kostenlose-probe-box .wir-empfehlen-content {
+        width: calc(100% - 130px);
+    }
+    .gift-box:after {
+        top: 10px;
+        left: 10px;
+        width: 160px;
+        height: 160px;
+    }
+    /******************** Leistung Start *********************/
+    .leistung_img_fill {
+        padding: 15px;
+    }
+    .leistung_img_fill svg {
+        width: 55px;
+        height: 55px;
+    }
+    .leistung_img_border {
+        padding: 8px;
+    }
+    .leistung_img_details p {
+        margin: 5px 0px;
+    }
+    .leistung_margin_bottom {
+        margin-bottom: 40px;
+    }
+    .beauty_left_blog_section .beauty-blog--right-col {
+        width: 750px;
+    }
+    .beauty_left_blog_section .beauty-blog--inner-image-block:after {
+        max-width: 650px;
+    }
+    .beauty_left_blog_section .beauty-blog--left-col {
+        width: calc(100% - 750px);
+    }
+    .haare_dauerhaft_section{
+        margin-top: 80px;
+    }
+    .ebene-gewinnspiel-shape-img {
+        right: -30%;
+        top: -117%;
+        z-index: -1;
+        transform: scale(0.7);
+    }
+    .behandlung_section .ebene-gewinnspiel-shape-img {
+        left: -46%;
+        top: -73%;
+        z-index: -2;
+    }
+    .nueste_slider_right_section {
+        padding-left: 25px;
+    }
+    .immer_btn .schon-gewusst-btn {
+        margin-top: 30px;
+    }
+    .nueste_slider_section .owl-nav{
+        width: 165px;
+    }
+    .nueste_main_slider_section .common-title h3{
+        font-size: 33px;
+    }
+
+    .box_title, .box_title_1X {
+        font-size: 22px;
+    }
+    .box_big_contain {
+        font-size: 46px;
+    }
+    .box_pluse {
+        font-size: 32px;
+    }
+    .box_title span:after, .box_title_1X span:after{
+        bottom: 0px;
+    }
+    .paket_box_section {
+        padding: 65px 0 45px;
+    }
+
+    .angebote-left-shape-img {
+        left: -27%;
+        transform: scale(0.7);
+        top: -32%;
+    }
+    .angebote-right-shape-img {
+        right: -13%;
+        transform: scale(0.7);
+        bottom: -11%;
+    }
+    /******************** Leistung End *********************/
+
+    /******************** preis Start *********************/
+    .gutschein_section{
+        margin: 20px 0px;
+    }
+    .percentage_section p {
+        font-size: 122px;
+    }
+    .gutschein_contain p {
+        font-size: 20px;
+        margin-top: 16px;
+    }
+    .gutschein_contain h3 {
+        font-size: 38px;
+    }
+    .beauty_card_section p {
+        font-size: 24px;
+    }
+    .gutschein_rotact_section{
+        margin: 10px 0px;
+    }
+    .beauty_card_section p:after{
+        height: 30px;
+    }
+
+    .beauty_top_bar {
+        max-width: 767px;
+    }
+    .beauty_price_border {
+        padding: 60px 30px 30px;
+    }
+    .beauty_price_right .beauty_price_new p {
+        font-size: 24px;
+    }
+    .beauty_price_new p{
+        font-size: 22px;
+    }
+    .beauty_price_right {
+        padding: 20px 0px 20px 30px;
+    }
+    .beauty_price_left{
+        padding: 20px 30px 20px 0px;
+    }
+    .beauty_top_item a{
+        font-size: 22px;
+    }
+    .beauty_top_bar_fill{
+        padding: 15px 70px 15px 35px;
+    }
+    .beauty_price_table_fill {
+        top: -46px;
+    }
+    .beauty_price_new h4 {
+        font-size: 28px;
+    }
+    .beauty_title p{
+        font-size: 16px;
+    }
+    /******************** preis End *********************/
+
+    /******************* Uber Page Start ******************/
+    /* Unser team Section Start */
+    .unser_team_section .unser_card_img {
+        max-width: 280px;
+    }
+    .unser_team_section .team_title span {
+        padding: 3px 0;
+    }
+    .unser_team_section .team_title h3,
+    .unser_team_section .team_arow_link span {
+        font-size: 20px;
+    }
+    /* Unser team Section End */
+
+    /* Gallery Section Start */
+    .gallery_section .gallery_second_section .container,
+    .gallery_section .gallery_third_section .container {
+        max-width: 1140px;
+    }
+    .gallery_section .gallery_second_info p {
+        padding-top: 0px;
+        font-size: 35px;
+    }
+    .gallery_third_section .top_part_info p,
+    .gallery_third_section .bottom_part_info p {
+        font-size: 33px;
+    }
+    .gallery_section .gallery_third_section .top_part_info {
+        padding-top: 90px;
+        max-width: calc(100% - 76%);
+    }
+    .gallery_section .gallery_second_info {
+        max-width: calc(100% - 73%);
+    }
+    .gallery_section .right_side_info {
+        padding-top: 50px;
+    }
+    .gallery_section .bottom_brush_img {
+        max-width: 11%;
+        bottom: -40px;
+    }
+    .gallery_section .top_brush_img {
+        width: 12%;
+        top: -80px;
+    }
+
+    .kostenlose-probe-section {
+        padding: 80px 0;
+    }
+    .neuste-shape-img {
+        transform: scaleY(0.7);
+        top: -40%;
+    }
+
+    .mehr-dazu span:after{
+        bottom: 3px;
+    }
+    /* Gallery Section End */
+    /******************* Uber Page End ******************/
+}
+
+@media screen and (max-width: 1360px){
+    /******************** Leistung Start *********************/
+    .leistung_tab_title ul li a {
+        font-size: 18px;
+    }
+    .leistung_img_details > span{
+        font-size: 22px;
+    }
+    .mehr-dazu, .bewertungen-sub-title {
+        font-size: 18px;
+    }
+    .leistung_main_contain_section {
+        padding-top: 40px;
+    }
+    .beauty_blog_list ul li div > svg{
+        width: 20px;
+    }
+    .nueste_main_slider_section .common-title h3 {
+        font-size: 28px;
+    }
+    /******************** Leistung End *********************/
+
+    /******************* News Page Start ******************/
+    /* Service Card Section Start */
+    .innerbox_title h3 {
+        font-size: 25px;
+    }
+    .service_box_paragraph p,
+    .innerbox_paragraph p {
+        font-size: 18px;
+    }
+    .service_modal .modal_closebtn {
+        right: 0;
+        top: -75px;
+    }
+    .service_card_section {
+        padding-bottom: 80px;
+    }
+    /* Service Card Section End */
+
+    /* Modal Box Start */
+    .service_modal .modal_footer h5 {
+        padding-top: 5px;
+        padding-bottom: 15px;
+    }
+    /* Modal Box End */
+    /******************* News Page End ******************/
+    
+    /******************* Uber Page Start ******************/
+    /* Unser team Section Start */
+    .unser_team_section .unser_card_img {
+        max-width: 250px;
+    }
+    .unser_team_section .team_title h3,
+    .unser_team_section .team_arow_link span {
+        font-size: 18px;
+    }
+    .unser_team_section .team_arow_link img {
+        margin-left: 15px;
+        max-width: 14px;
+    }
+    .unser_team_section {
+        padding-bottom: 20px;
+    }
+    /* Unser team Section End */
+
+    /* Gallery Section Start */
+    .gallery_section .gallery_back_color_section {
+        margin-top: 20px;
+    }
+    .gallery_section .right_side_info p {
+        font-size: 32px;
+    }
+    .gallery_section .right_side_info {
+        padding-top: 50px;
+    }
+    .gallery_section .top_brush_img {
+        top: -85px;
+        width: 13%;
+    }
+    .gallery_section .bottom_brush_img {
+        width: 13%;
+    }
+    .gallery_section .gallery_second_info {
+        padding-left: 50px;
+    }
+    /* Gallery Section End */
+    /******************* Uber Page End ******************/
+}
+
+@media screen and (max-width: 1280px){}
+
+@media screen and (max-width: 1200px){
+    .haare_dauerhaft_inner .haare_content{
+        min-width: unset;
+    }
+}
+
+@media screen and (max-width: 1199px){
+    .nueste_main_slider_section .big-title {
+        margin-bottom: -45px;
+    }
+    .container {
+        max-width: 100%;
+    }
+    .menu-nav ul li {
+        margin-right: 20px;
+    }
+    .menu-nav ul li.termin-btn a {
+        padding: 10px 15px;
+    }
+    .cm-btn, .footer-btn .cm-btn {
+        padding: 10px 15px;
+    }
+    .banner--left .subtext {
+        font-size: 20px;
+    }
+    .banner--left .main_title, .beauty-section .beauty_title h2 {
+        font-size: 40px;
+    }
+    .banner--left .banner--content {
+        margin-top: 20px;
+        margin-bottom: 25px;
+        font-size: 18px;
+    }
+    .banner--right-img {
+        max-width: 100%;
+        margin-right: 25px;
+    }
+    .kontakt-modal-block .modal-lg {
+        max-width: 800px;
+    }
+    .deine-element1 {
+        display: none;
+    }
+    .beauty_paragraph {
+        padding-top: 70px;
+    }
+    .beauty_title .vertical_line {
+        top: 75px;
+        height: 25px;
+    }
+    .beauty_paragraph p {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+    .beauty-section {
+        padding: 60px 0;
+    }
+    p.deine-content {
+        font-size: 16px;
+    }
+    .big-title h2 {
+        font-size: 70px;
+    }
+    .bewertungen-right {
+        display: none;
+    }
+    .bewertungen-left, .bewertungen-btn {
+        max-width: 100%;
+    }
+    .bewertungen-inner:after {
+        width: 100%;
+    }
+    .bewertungen-section .big-title {
+        margin-bottom: -50px;
+    }
+    .mobile-bewertungen-title {
+        display: block;
+        padding-top: 80px;
+        text-align: center;
+    }
+    .bewertungen-sub-title {
+        margin-bottom: 0px;
+    }
+    .bewertungen-pic-name {
+        padding-left: 0;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .bewertungen-pic {
+        width: 100%;
+        max-width: 100px;
+        margin: 0 auto 15px;
+    }
+    .bewertungen-name-star {
+        text-align: center;
+        width: 100%;
+    }
+    .quote-icon, .quote-desc {
+        width: 100%;
+        text-align: center;
+    }
+    .bewertungen-section {
+        padding-top: 60px;
+    }
+    .bewertungen-left .bewertungen-btn, .quiz-gewinnspiel-shape-img {
+        display: none;
+    }
+    .bewertungen-left {
+        padding: 0 15px;
+        margin: 0 auto;
+        max-width: 767px;
+    }
+    .mobile-bewertungen-btn {
+        display: block;
+        text-align: center;
+    }
+    .bewertungen-message-single + .bewertungen-message-single {
+        border-top:0;
+    }
+    .bewertungen-btn {
+        margin-top: 20px;
+    }
+    .bewertungen-name {
+        font-size: 24px;
+    }
+    .bewertungen-star-icon {
+        margin-top: 0;
+    }
+    .bewertungen-star-icon i.fa-star{
+        font-size: 16px;
+    }
+    .bewertungen-message-single {
+        padding: 50px 0 25px;
+    }
+    .online-test-section .online-left-inner {
+        padding-left: 15px;
+    }
+    .online-test-section:after {
+        display: none;
+    }
+    .online-test-section {
+        padding-top: 60px;
+    }
+    .online-test-section .big-title {
+        margin-bottom: 45px;
+    }
+    .online-right-inner {
+        padding: 100px 60px 0;
+    }
+    .jetzt-left-col {
+        width: 45%;
+    }
+    .jetzt-right-col {
+        width: 55%;
+    }
+    .jetzt-right--inner-bg-block:after {
+        width: calc(100% - 25px);
+        height: calc(100% - 50px);
+        top: 25px;
+    }
+    .auf-alles-desc:after {
+        height: 30px;
+        bottom: 45px;
+    }
+    .jetzt-gutschein-section .big-title {
+        margin-bottom: -45px;
+    }
+    .auf-alles-desc p {
+        font-size: 20px;
+        max-width: 500px;
+    }
+    .auf-alles-title h3 {
+        font-size: 40px;
+    }
+    .auf-alles-label p {
+        font-size: 20px;
+        margin: 0;
+    }
+    .jetzt-right--inner-bg-block {
+        padding: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .quiz-gewinnspiel-block {
+        margin: 0 -15px;
+    }
+    .quiz-gewinnspiel-section .big-title {
+        margin-bottom: -36px;
+    }
+    .beauty-blog-section .big-title {
+        margin-bottom: -35px;
+    }
+    .beauty-blog--left-col {
+        width: 45%;
+    }
+    .beauty-blog--right-col {
+        width: 55%;
+    }
+    .beauty-blog--inner-image-block:after {
+        max-width: 85%;
+    }
+    .beauty-blog-img {
+        max-width: 90%;
+    }
+    .faq-owl .item {
+        padding: 0;
+        width: 100%;
+        margin-bottom: 0;
+    }
+    .faq-owl {
+        margin: 0;
+    }
+    .owl-carousel .owl-item .faq-icon-img img {
+        width: auto;
+    }
+    .faq-section .big-title {
+        margin-bottom: -35px;
+    }
+    .faq-section {
+        padding: 60px 0 0;
+    }
+    .faq-owl-slider-block {
+        padding: 50px 15px 0;
+    }
+    .faq--inner-block {
+        padding-bottom: 40px;
+    }
+    .kostenlose-probe-btn {
+        padding-top: 40px;
+    }
+    .kostenlose-probe--inner-block {
+        margin-top: 40px;
+    }
+    .footer-wrapper {
+        padding: 100px 15px;
+    }
+    .footer-logo-text-label p, .footer-col-title h4 {
+        font-size: 20px;
+    }
+    .footer-logo-text h3 {
+        font-size: 40px;
+        margin: 5px 0 30px;
+    }
+    .footer-btn {
+        padding-bottom: 60px;
+    }
+
+    /******************** Leistung Start *********************/
+    .leistung_end_contain {
+        margin-right: 0px;
+    }
+    .leistung_right_section .leistung_inner_contain{
+        padding-left: 0px;
+    }
+    .beauty_left_blog_section .beauty-blog--right-col {
+        width: 55%;
+    }
+    .beauty_left_blog_section .beauty-blog-img {
+        max-width: 90%;
+    }
+    .beauty_left_blog_section .beauty-blog--inner-image-block:after {
+        max-width: 85%;
+    }
+    .beauty_left_blog_section .beauty-blog--left-col {
+        width: 45%;
+    }
+    .common_light_title{
+        font-size: 22px;
+    }
+    .beauty_blog_list ul li + li {
+        margin-top: 8px;
+    }
+    .beauty_blog_list ul {
+        margin: 20px 0;
+    }
+    .haare_dauerhaft_section {
+        padding: 70px 15px;
+    }
+    .haare_dauerhaft_section{
+        margin-top: 70px;
+    }
+    .beauty_blog_list ul li p, .beuty_slide_contain p{
+        font-size: 15px;
+    }
+    .home_page .beauty-blog-section {
+        padding-top: 0px;
+    }
+    .nueste_details p{
+        margin-top: 30px;
+        font-size: 14px;
+    }
+    .immer_btn .schon-gewusst-btn .cm-btn {
+        max-width: 321px;
+    }
+    .nueste_main_slider_section .common-title h3{
+        font-size: 26px;
+    }
+    .nueste_slider_right_section {
+        padding-left: 15px;
+    }
+    .nueste_slider_section .owl-nav{
+        right: 15px;
+        bottom: -60px;
+        margin-top: 0px;
+    }
+    .nueste_main_slider_section .owl-nav [class*=owl-] svg{
+        width: 28px;
+    }
+
+    .box_title, .box_title_1X {
+        font-size: 18px;
+    }
+    .box_big_contain {
+        font-size: 38px;
+    }
+    .box_pluse {
+        font-size: 28px;
+    }
+    .schon-gewusst-btn {
+        margin-top: 15px;
+    }
+    .karte_contain p {
+        font-size: 28px;
+    }
+    .box_big_contain {
+        font-size: 34px;
+    }
+
+    .paket_box_section .paket_pad{
+        padding: 0 15px;
+    }
+    .paket_box_section .row{
+        margin: 0 -15px;
+    }
+
+    .angebote-left-shape-img {
+        left: -35%;
+        transform: scale(0.6);
+        top: -44%;
+    }
+    .angebote-right-shape-img {
+        right: -17%;
+        transform: scale(0.6);
+        bottom: -17%;
+    }
+    .beauty_left_blog_section .schon-gewusst-btn{
+        margin-top: 10px;
+    }
+    /******************** Leistung End *********************/
+
+    /******************** Preis Start *********************/
+    .beauty_card_section p {
+        font-size: 22px;
+    }
+    .gutschein_contain p {
+        font-size: 18px;
+        margin-top: 16px;
+    }
+    .percentage_section p {
+        font-size: 115px;
+    }
+    .gutschein_section_fill{
+        padding: 0 20px 15px 20px;
+    }
+
+    .beauty_price_border {
+        padding: 50px 20px 25px;
+    }
+    .beauty_price_new h4 {
+        font-size: 26px;
+    }
+    .beauty_price_right {
+        padding: 20px 0px 20px 20px;
+    }
+    .beauty_price_left {
+        padding: 20px 20px 20px 0px;
+    }
+    /******************** Preis End *********************/
+
+    /******************* Contact Page Start ******************/
+    /* Contact Section Start */
+    .contact_section .location {
+        padding-right: 0;
+    }
+    .contact_section .clock {
+        padding-left: 0;
+    }
+    .contact_section {
+        padding-top: 70px;
+    }
+    /* Contact Section End */
+
+    /* Form Section Start */
+    .contact_section .contact-common-img {
+        margin-bottom: 30px;
+    }
+    .form_section .form-title h2 {
+        padding-bottom: 30px;
+    }
+    /* Form Section End */
+    /******************* Contact Page End ******************/
+
+    /******************* News Page Start ******************/
+    /* Service Card Section Start */
+    .service_card_section {
+        padding-bottom: 60px;
+    }
+    /* Service Card Section End */
+
+    /* Modal Box Start */
+    .service_modal .modal-dialog {
+        margin-top: 50px;
+    }
+    .service_modal .modal_footer h5 {
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .service_modal .modal_closebtn {
+        top: -70px;
+        width: 40px;
+        height: 40px;
+        right: 0;
+    }
+    .service_modal .modal_img {
+        max-height: 250px;
+    }
+    .service_modal .modal_title h3 {
+        font-size: 23px;
+    }
+    .service_modal .modal_title span {
+        font-size: 14px;
+    }
+    .service_modal .modal_social_icons {
+        max-width: 35%;
+    }
+    .service_modal .horizontal_line {
+        max-width: 275px;
+    }
+    .service_modal .modal_img::after {
+        border: 1px solid var(--spring-wood);
+    }
+    .service_modal .modal-dialog {
+        margin-top: 100px;
+    }
+    .service_modal .modal_social_icons .icons {
+        width: 40px;
+        height: 40px;
+    }
+    .service_modal .modal_social_icons i {
+        font-size: 25px;
+    }
+    /* Modal Box End */
+    /******************* News Page End ******************/
+
+    /******************* Uber Page Start ******************/
+    /* Unser team Section Start */
+    .unser_team_section .container,
+    .gallery_section .gallery_second_section .container {
+        max-width: 100%;
+    }
+    .unser_team_section .unser_card_img::after {
+        top: 12px;
+        left: -12px;
+    }
+    .unser_team_section {
+        padding: 50px 0px;
+    }
+    .unser_team_section .bg_image_top {
+        top: -34px;
+        max-width: 22%;
+    }
+    .unser_team_section .unser_team_title h2,
+    .gallery_section .gallary_title h2 {
+        font-size: 40px;
+    }
+    /* Unser team Section End */
+
+    /* Gallary Section Start */
+    .gallery_section {
+        padding-bottom: 50px;
+    }
+    .gallery_section .right_side_info {
+        padding-top: 70px;
+        padding-left: 50px;
+    }
+    .gallery_section .right_side_info p {
+        font-size: 28px;
+    }
+    .gallery_section .gallery_second_img {
+        max-width: 65%;
+    }
+    .gallery_section .gallery_second_info p,
+    .gallery_third_section .top_part_info p,
+    .gallery_third_section .bottom_part_info p,
+    .gallery_third_section .top_part_info p,
+    .gallery_third_section .bottom_part_info p {
+        font-size: 30px;
+    }
+    .gallery_section .gallery_third_section .container {
+        max-width: 100%;
+    }
+    .gallery_section .gallery_second_info {
+        padding-top: 60px;
+        max-width: 26%;
+    }
+    .top_part {
+        padding-bottom: 50px;
+    }
+    .gallery_section .gallery_third_section .third_gallery .bottom_part_info {
+        padding-left: 40px;
+    }
+    .top_part,
+    .bottom_part {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+    .gallery_section .gallery_third_section .top_part_img,
+    .gallery_section .gallery_third_section .third_gallery .bottom_part_img {
+        max-width: 70%;
+    }
+    .gallery_third_section .top_part {
+        padding-bottom: 45px;
+        margin-top: -30px;
+    }
+    .gallery_third_section .bottom_part {
+        margin-bottom: -30px;
+    }
+    .gallery_section .gallery_second_section {
+        padding-top: 90px;
+    }
+    /* Gallary Section End */
+    /******************* Uber Page End ******************/
+}
+
+@media screen and (max-width: 1080px){
+    .nueste_main_slider_section .common-title h3{
+        font-size: 24px;
+    }
+
+    /******************** Preis Start *********************/
+    .gutschein_section{
+        padding: 10px;
+    }
+    .gutschein_section_fill{
+        padding: 0 15px 15px 15px;
+    }
+    .beauty_card_section p {
+        font-size: 22px;
+    }
+    .gutschein_contain {
+        margin-left: 15px;
+    }
+    .percentage_section p{
+        font-size: 110px;
+    }
+    .gutschein_contain p {
+        font-size: 17px;
+        margin-top: 13px;
+    }
+    .gutschein_contain h3 {
+        font-size: 34px;
+    }
+    .beauty_card_section p {
+        font-size: 20px;
+    }
+    .beauty_card_section p:after {
+        height: 26px;
+    }
+    .gutschein_rotact_section span{
+        height: 15px;
+    }
+    .gutschein_rotact_section {
+        margin: 5px 0px;
+    }
+
+    .beauty_price_table {
+        padding: 50px 0 0;
+    }
+    .preis_beauty_btn{
+        margin-bottom: 60px;
+        margin-top: 0px;
+    }
+    /******************** Preis End *********************/
+
+     /******************* Uber Page Start ******************/
+    /* Unser team Section Start */
+    .unser_team_section .unser_card_img {
+        max-width: 205px;
+    }
+
+    .unser_team_section .unser_team_title span, .gallery_section .gallary_title span{
+        font-size: 20px;
+    }
+    /* Unser team Section End */
+    /******************* Uber Page End ******************/
+}
+
+@media screen and (max-width: 991px) {
+    .nueste_main_slider_section,
+    .leistung_page .behandlung_section, 
+    .leistung_page .beauty_left_blog_new_section, 
+    .leistung_page .beauty_left_blog_section {
+        padding-top: 60px;
+    }
+    .ebene-gewinnspiel-shape-img,
+    .behandlung_section .ebene-gewinnspiel-shape-img,
+    .neuste-shape-img,
+    .pries-left-shape-img{
+        display: none;
+    }
+    .menu-toggle-btn {
+        cursor: pointer;
+        background-color: transparent;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 35px;
+        position: absolute;
+        z-index: 2;
+        top: 28px;
+        left: 15px;
+    }
+    .header-wrapper.fix-header .menu-toggle-btn{
+        top: 15px;
+    }
+    .menu-toggle-btn span:nth-child(1) {
+        margin-top: 5px;
+    }
+
+    .menu-toggle-btn{
+        display: block;
+    }
+
+    .header-block {
+        position: fixed;
+        top: 0;
+        display: block;
+        width: 300px;
+        left: -100%;
+        background-color: var(--quicksand-color);
+        height: 100vh;
+        overflow-y: auto;
+        z-index: 2;
+        transition: 0.8s ease all;
+    }
+    .header-block.active{
+        left: 0;
+    }
+    .logo-block {
+        padding: 22px 0;
+    }
+    .menu-nav-block {
+        padding-top: 73px;
+    }
+    .menu-nav ul {
+        flex-direction: column;
+        align-items: start;
+        padding-left: 40px;
+        padding-bottom: 20px;
+    }
+    .menu-nav ul li{
+        margin: 0;
+    }
+    .menu-nav ul li a{
+        color: var(--white-color);
+        font-size: 24px;
+    }
+    .menu-nav ul li.active a, .menu-nav ul li:hover a{
+        color: var(--white-color);
+        border-bottom-color: var(--white-color);
+    }
+
+    .menu-nav ul li.termin-btn{
+        display: none;
+    }
+    .mobile-termin-btn {
+        display: block;
+        margin-top: 24px;
+        padding: 0 15px;
+    }
+    .change-clr-main-sidebar .mobile-termin-btn {
+        opacity: 0;
+    }
+    .mobile-termin-btn .termin-btn a {
+        display: block;
+    }
+
+    .menu-back-arrow {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 73px;
+        display: flex;
+        align-items: center;
+        padding-left: 20px;
+        z-index: 2;
+    }
+    .menu-go-back{
+        padding: 5px 0;
+    }
+
+    .dropdown-submenu{
+        position: fixed;
+        padding-top: 73px;
+        height: 100vh;
+        background-color: var(--quicksand-color);
+        transform: scale(1);
+        top: 0px;        
+        left: -100%;
+        width: 300px;
+        transition: 0.3s ease all;
+    }
+    .header-block.active.change-clr-main-sidebar:after {
+        content: '';
+        display: block;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        z-index: 2;
+        backdrop-filter: blur(3px);
+        -webkit-backdrop-filter: blur(3px);
+        opacity: 1;
+        background-color: rgba(171, 105, 81, 0.5);
+    }
+    .dropdown-submenu.active{
+        left: 37px;
+        z-index: 9;
+    }
+    .dropdown-submenu ul li{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .menu-nav ul li + li {
+        margin-top: 15px;
+    }
+    .menu-nav ul li:hover a.menu-go-back{
+        border-bottom-color:transparent
+    }
+    .menu-nav ul li .dropdown-submenu li > a{
+        color: var(--white-color);
+        border-bottom-color: transparent;
+    }
+    .menu-nav ul li .dropdown-submenu li.active > a{
+        border-bottom-color: var(--white-color);
+    }
+    .dropdown-submenu{
+        padding-top: 0;
+    }
+    /*.change-clr-main-sidebar{
+    background-color: var(--dark-wood);
+    }*/
+
+    .dropdown-submenu ul{
+        padding: 0;
+        max-width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-top: 73px;
+    }
+    .dropdown-submenu ul{
+        justify-content: unset;
+    }
+
+    .menu-nav, 
+    .menu-nav ul,
+    .menu-nav ul li, 
+    .menu-nav ul li a{
+        height: auto;
+    }
+    .dropdown-submenu ul {
+        height: 100%;
+    }
+    .logo-block a {
+        font-size: 24px;
+    }
+    .home-modal-trigger a {
+        width: 51px;
+        height: 51px;
+    }
+    .home-modal-trigger {
+        right: 15px;
+        bottom: unset;
+        top: 19px;
+    }
+    .cm-overflow .home-modal-trigger {
+        z-index: 70;
+    }
+
+    .banner--inner {
+        padding-top: 40px;
+    }
+    .banner-section {
+        margin-bottom: 0;
+        height: 600px;
+    }
+    .kontakt-modal-block .modal-lg {
+        max-width: 650px;
+    }
+    .kontakt-modal-block .modal-body {
+        padding: 50px 50px;
+    }
+    .kontakt-modal-block .modal-content {
+        border-radius: 30px;
+    }
+    .kontakt-modal-block .modal-header .close {
+        right: -50px;
+        width: 40px;
+        height: 40px;
+    }
+    .kontakt-btn-block ul li + li {
+        margin-top: 15px;
+    }
+    .kontakt-map-block {
+        margin-top: 15px;
+    }
+    .deine-blocks .deine-single:nth-child(2), .deine-blocks .deine-single:nth-child(3) {
+        margin-top: 0px;
+    }
+    .deine-left-side-panel {
+        top: 50px;
+        z-index: -1;
+        height: 380px;
+        max-width: 370px;
+        width: 100%;
+    }
+    .deine-single {
+        flex:100%;
+        max-width: 100%;
+    }
+    .deine-blocks {
+        margin: 0;
+    }
+    .online-right-inner {
+        padding: 70px 30px 0;
+    }
+    .online-left-inner:after {
+        width: calc(100% - 80px);
+    }
+    .online-left-inner:after {
+        top: -80px;
+        min-height: 100%;
+    }
+    .online-inner {
+        padding-top: 0;
+    }
+    .gift-box:after {
+        top: 8px;
+        left: 8px;
+        width: 134px;
+        height: 134px;
+        border: 2px solid var(--moccasin-color);
+    }
+    .gift-box {
+        width: 150px;
+        height: 150px;
+        left: -75px;
+        bottom: 40px;
+    }
+    .git-icon svg {
+        max-width: 30px;
+        max-height: 30px;
+    }
+    .gift-title h4 {
+        font-size: 16px;
+        margin: 10px 0 6px;
+    }
+    .ribbon-img-block {
+        max-width: 200px;
+    }
+    .auf-alles-desc p {
+        max-width: 400px;
+    }
+    .quiz-gewinnspiel-bg-block {
+        padding: 70px;
+    }
+    .quiz-gewinnspiel-section {
+        padding: 60px 0;
+    }
+    .beauty-blog--left-col, .beauty-blog--right-col {
+        width: 100%
+    }
+    .beauty-blog--right-col {
+        order: -1;
+    }
+    .beauty-blog--inner-image-block:after {
+        max-width: 90%;
+    }
+    .beauty-blog-img {
+        max-width: 90%;
+    }
+
+    .beauty-blog--inner-image-block {
+        padding: 60px 0 20px;
+        margin-bottom: 40px;
+    }
+    .beauty-blog-shape-img {
+        position: absolute;
+        bottom: unset;
+        right: 0;
+        transform: scale(-1, 1);
+        top: -30px;
+        max-width: 250px;
+    }
+    .kp-col {
+        width: 50%;
+    }
+    .kp-col:nth-child(3), .kostenlose-probe-shape-img {
+        display: none;
+    }
+    .kostenlose-probe-section {
+        padding: 60px 0;
+    }
+    .kostenlose-probe-block .faq-sub-title .common-desc {
+        padding-top: 15px;
+    }
+    .kostenlose-probe-block .wir-title h4 {
+        font-size: 18px;
+    }
+    .footer-white--box {
+        padding:20px;
+    }
+    .jetzt--inner-left-image img {
+        object-position: left center
+    }
+    .online-left-banner {
+        max-height: 450px;
+    }
+    .wir-empfehlen--inner--box {
+        padding-bottom: 20px;
+    }
+
+    /******************** Leistung End *********************/
+    .leistung_img_details > span {
+        font-size: 20px;
+    }
+    .leistung_img {
+        margin-right: 15px;
+    }
+    .leistung_img_details p{
+        max-width: 100%;
+        font-size: 15px;
+    }
+    .leistung_img_fill svg {
+        width: 50px;
+        height: 50px;
+    }
+    .leistung_tab_title ul li a {
+        font-size: 16px;
+    }
+    .leistung_tab_title {
+        padding: 20px 15px;
+    }
+    .beauty_left_blog_section .beauty-blog--right-col {
+        width: 100%;
+    }
+    .beauty_left_blog_section .beauty-blog--inner-image-block{
+        padding: 60px 0px;
+    }
+    .beauty_left_blog_section .beauty-blog--inner-image-block:after {
+        max-width: 90%;
+    }
+    .beauty_left_blog_section .beauty-blog-shape-img{
+        transform: scale(1, 1);
+    }
+    .beauty_left_blog_section .beauty-blog--left-col{
+        width: 100%;
+    }
+    .beauty_left_blog_section .schon-gewusst--block, .beuty_slide_contain p{
+        max-width: 100%;
+    }
+    .beuty_slide_grident_btn{
+        padding: 30px 0px;
+    }
+    .beauty_left_blog_section .beauty-blog--inner-image-block{
+        margin-bottom: 25px;
+    }
+
+    .behandlung_section .schon-gewusst--block{
+        max-width: 100%;
+        width: 100%
+    }
+    .behandlung_section .schon-gewusst--block-slider{
+        text-align: left;
+    }
+    .behandlung_section .common-desc{
+        margin-left: unset;
+        max-width: unset;
+    }
+    .haare_dauerhaft_section {
+        padding: 50px 15px;
+    }
+    .haare_dauerhaft_inner h3.haare_header {
+        font-size: 32px;
+    }
+
+    .haare_dauerhaft_section{
+        margin-top: 60px;
+    }
+    .nueste_slider_section{
+        padding: 0 15px;
+    }
+    .nueste_slider_left_section{
+        padding-left: 0px;
+    }
+    .nueste_details{
+        margin-top: 0px;
+    }
+    .nueste_main_slider_section .big-title{
+        margin-bottom: -45px;
+    }
+
+    .paket_box_inner_section{
+        margin: 50px 20px 20px;
+    }
+    .paket_box_section {
+        padding: 50px 0 0px;
+    }
+    .paket_box_section .paket_pad{
+        padding: 0px;
+    }
+    .paket_box_section .row{
+        margin: 0px;
+    }
+    .angebote_section .owl-nav{
+        text-align: center;
+    }
+    .angebote_section .owl-nav .owl-prev{
+        margin-right: 25px;
+    }
+    .angebote_section .owl-nav .owl-next{
+        margin-left: 25px;
+    }
+
+    .angebote-left-shape-img{
+        display: none;
+    }
+    .angebote-right-shape-img{
+        display: none;
+    }
+    .behandlung_section .beauty-blog--inner-image-block{
+        padding: 60px 0;
+    }
+    /******************** Leistung End *********************/
+
+    /******************** preis Start *********************/
+    .percentage_section p {
+        font-size: 85px;
+    }
+    .beauty_card_section p {
+        font-size: 18px;
+    }
+    .gutschein_contain {
+        margin-left: 10px;
+    }
+    .gutschein_contain h3 {
+        font-size: 28px;
+    }
+    .gutschein_section_fill {
+        padding: 10px;
+    }
+    .gutschein_section {
+        padding: 7px;
+    }
+    .beauty_card_section p:after{
+        height: 20px;
+        width: 96%;
+    }
+
+    .beauty_price_left {
+        padding: 15px 15px 15px 0px;
+    }
+    .beauty_price_right {
+        padding: 15px 0px 15px 15px;
+    }
+    .beauty_title p {
+        font-size: 12px;
+    }
+    .beauty_title h3 {
+        font-size: 20px;
+    }
+    .beauty_price_border {
+        padding: 46px 10px 20px;
+    }
+    .beauty_price_new h4 {
+        font-size: 20px;
+    }
+    .beauty_price_new p {
+        font-size: 18px;
+    }
+    .beauty_price_table_fill {
+        padding: 10px;
+    }
+    .beauty_price_right .beauty_price_new p {
+        font-size: 20px;
+    }
+    .beauty_price_left ul li + li, .beauty_price_right ul li + li {
+        margin-top: 30px;
+    }
+    .beauty_top_bar {
+        padding: 10px;
+    }
+    .beauty_top_bar_fill {
+        padding: 10px 60px 10px 30px;
+    }
+    .beauty_top_item a {
+        font-size: 20px;
+    }
+    .beauty_top_bar {
+        max-width: 670px;
+    }
+    .beauty_price_table {
+        padding: 75px 0 0;
+    }
+
+    .preis_angebote .paket_box_section{
+        padding-top: 40px;
+    }
+    .preis_beauty_btn{
+        margin-bottom: 50px;
+    }
+    .location .location_info span, 
+    .location .location_info p, 
+    .clock-outer .clock_info, 
+    .call-outer .call_info span {
+        font-size: 16px;
+    }
+
+    .gallery_section .gallery_second_info p,
+    .gallery_third_section .top_part_info p,
+    .gallery_third_section .bottom_part_info p {
+        font-size: 22px;
+    }
+
+    .has-submenu .lei_none{
+        display: none;
+    }
+    .has-submenu .lei_block{
+        display: block;
+    }
+
+    .contact-common-img {
+        width: 100px;
+    }
+    .contact_section .contact-common-img {
+        margin-bottom: 20px;
+    }
+    .jaam_menu_toggle i{
+        display: none;
+    }
+    /******************** preis End *********************/
+}
+@media screen and (max-width: 850px){
+    /******************** preis Start *********************/
+    .gutschein_contain h3 {
+        font-size: 24px;
+    }
+    .percentage_section p {
+        font-size: 82px;
+    }
+    .gutschein_contain p {
+        font-size: 14px;
+    }
+    .beauty_card_section p {
+        font-size: 16px;
+    }
+    /******************** preis End *********************/
+
+    /******************* Contact Page Start ******************/
+    /* Contact Section Start */
+    .contact_section .location-outer,
+    .contact_section .call-outer,
+    .contact_section .clock-outer {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+    .contact_section .contact-common-img {
+        margin-bottom: 20px;
+    }
+    /* Contact Section End */
+
+    /* Form Section Start */
+    .form_section .form-title h2 {
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+    .form_section .input-boxes input,
+    .form_section .combo-inputbox textarea {
+        padding: 15px 25px;
+    }
+    .form_section .input-boxes input {
+        margin-bottom: 20px;
+    }
+    .form_section .full-name {
+        -webkit-column-gap: 20px;
+        -moz-column-gap: 20px;
+        column-gap: 20px;
+    }
+    .form_section .input-boxes .first-name input {
+        width: 100%;
+    }
+    /* Form Section End */
+    /******************* Contact Page End ******************/
+
+    /******************* News Page Start ******************/
+    /* Service section Start */
+    .innerbox_title h3 {
+        font-size: 23px;
+    }
+    .innerbox_paragraph p {
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    /* Service section End */
+    /* modal Box Start  */
+    .service_modal .modal_social_icons {
+        max-width: 40%;
+    }
+    /* modal Box End  */
+    /******************* News Page End ******************/
+
+    /******************* Uber Page Start ******************/
+    /* Unser team Section Start */
+    .unser_team_section .bg_image_top {
+        top: 27px;
+    }
+    .unser_team_section .unser_team_cards {
+        row-gap: 50px;
+    }
+    .unser_team_section .unser_team_cards {
+        padding: 40px 0;
+    }
+    .unser_team_section .bg_image_bottom {
+        bottom: -180px;
+    }
+    /* Unser team Section End */
+
+    /* Gallery Section Start */
+    .gallery_section .gallery_second_section {
+        padding-top: 50px;
+        padding-bottom: 80px;
+    }
+    .gallery_section .gallery_second_info {
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+    .gallery_section .right_side_info {
+        padding-left: 25px;
+        padding-top: 20px;
+    }
+    .gallery_section .bottom_brush_img {
+        bottom: -25px;
+    }
+    .gallery_section .right_side_info p {
+        font-size: 24px;
+    }
+    .gallery_section .gallary_title span {
+        padding: 10px 0;
+    }
+    .gallery_section .gallery_third_section .third_gallery .bottom_part_info,
+    .gallery_section .gallery_third_section .top_part_info {
+        padding-top: 50px;
+    }
+    .gallery_section .top_brush_img {
+        top: -45px;
+    }
+
+   
+    /* Gallery Section End */
+    /******************* Uber Page End ******************/
+}
+
+@media screen and (max-width: 767px){
+    .leistung_page .leistung-beauty-blog-section,
+    .leistung_page .behandlung_section, 
+    .leistung_page .beauty_left_blog_new_section, 
+    .leistung_page .beauty_left_blog_section {
+        padding-top: 50px;
+    }
+    .cm-order {
+        order: -1;
+    }
+    .banner-section {
+        height: auto;
+        padding-bottom: 25px;
+        background-image: url('../images/home/mobile-home-banner.svg');
+    }
+    .banner--inner {
+        padding-top: 0;
+    }
+    .cm-banner-re .subtext, .cm-banner-re .main_title {
+        display: none;
+    }
+
+    .moblie-banner-title {
+        display: block;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .banner--left {
+        text-align: center;
+        padding-top: 15px;
+    }
+    .moblie-banner-titl .banner--left {
+        padding-top: 0;
+    }
+    .banner--left .banner--content {
+        max-width: 100%;
+        margin-top: 0;
+    }
+    .banner--right {
+        max-width: 575px;
+        margin: 0 auto 25px;
+    }
+    .kontakt-modal-block .modal-lg {
+        margin-top: 60px;
+        max-width: 575px;
+    }
+    .kontakt-modal-block .modal-header .close {
+        right: 0;
+        top: -50px
+    }
+    .kontakt-modal-title h3, .bewertungen-section-title, .onlinr-heading, .quiz-white-box-title h3, .common-title h3  {
+        font-size: 28px;
+    }
+    .modal-title-line {
+        max-width: 135px;
+    }
+    .deine-left-side-panel {
+        max-width: 250px;
+        top: 33px;
+    }
+    .deine-title a {
+        font-size: 28px;
+    }
+    .deine-image span {
+        border: 2px solid var(--spring-wood);
+    }
+    .big-title h2 {
+        font-size: 55px;
+    }
+    .bewertungen-section .big-title {
+        margin-bottom: -40px;
+    }
+    .bewertungen-section {
+        padding-top: 0px;
+    }
+    .mobile-bewertungen-title {
+        padding-top: 60px;
+    }
+    .bewertungen-inner {
+        padding-bottom: 50px;
+    }
+    .bewertungen-sub-title {
+        font-size: 16px;
+    }
+    .online-left, .online-right {
+        width: 100%;
+    }
+    .online-test-section .online-left-inner {
+        padding: 0 15px;
+    }
+    .online-left-banner {
+        height: 400px;
+        width: 100%;
+    }
+    .online-test-section .big-title {
+        margin-bottom: 28px;
+    }
+    .online-left-inner:after {
+        top: -60px;
+        width: calc(100% - 100px);
+        min-height: 400px;
+    }
+    .online-right-inner {
+        text-align: center;
+    }
+    .onlinr-heading {
+        margin-bottom: 20px;
+    }
+    .jetzt-left-col, .jetzt-right-col {
+        width: 100%;
+        padding: 0;
+    }
+    .jetzt-gutschein-block {
+        padding: 70px 15px 0 ;
+    }
+    .jetzt--inner-left-image img {
+        max-height: 380px;
+        width: 100%;
+        object-position: top center;
+    }
+    .jetzt-gutschein-block:after {
+        height: 70%;
+    }
+    .jetzt-right--inner-bg-block:after {
+        border: 1px solid #000;
+        border-top: 0;
+        left: 20px;
+        width: calc(100% - 40px);
+        height: calc(100% - 20px);
+        top: 0;
+    }
+    .auf-alles-desc {
+        padding-bottom: 50px;
+    }
+    .gift-box {
+        width: 130px;
+        height: 130px;
+        left: 0;
+        bottom: unset;
+        right: 0;
+        margin: 0 auto;
+        top: -65px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, .55);
+    }
+    .auf-alles-desc:after {
+        height: 20px;
+        bottom: 20px;
+    }
+    .jetzt-right--inner-bg-block {
+        padding: 85px 20px 40px;
+    }
+    .gift-title h4 {
+        font-size: 14px;
+    }
+    .gift-title p {
+        font-size: 12px;
+    }
+    .git-icon svg {
+        max-width: 25px;
+        max-height: 25px;
+    }
+    .jetzt-gutschein-section .big-title {
+        margin-bottom: -33px;
+    }
+    .quiz-gewinnspiel-bg-block {
+        padding: 70px 15px;
+    }
+    .quiz-gewinnspiel-white-box {
+        padding: 35px 30px;
+    }
+    .was-konnen-sie-bg-img h4 {
+        font-size: 25px;
+    }
+    .was-konnen-sie-bg-img {
+        min-height: 100px;
+    }
+    .haut-pflege-desc p{
+        font-size: 16px;
+    }
+    .haut-line {
+        max-width: 28px;
+    }
+    .was-konnen-sie-box {
+        margin-top: 30px;
+    }
+    .quiz-gewinnspiel-section .big-title {
+        margin-bottom: -32px;
+    }
+    .beauty-blog-section .big-title {
+        margin-bottom: -34px;
+    }
+    .beauty-blog-section {
+        padding-top: 0;
+    }
+    .schon-gewusst-img-icon img {
+        max-width: 45px;
+    }
+    .mor-text-content h5, .mor-text-content p, .faq-more-title h3 {
+        font-size: 16px;
+    }
+    .moreless-button svg {
+        max-width: 20px;
+    }
+    .faq-section .big-title {
+        margin-bottom: -33px;
+    }
+    .kostenlose-probe-box .wir-empfehlen-content {
+        width: calc(100% - 100px);
+    }
+    .kostenlose-probe-box .wir-empfehlen-img {
+        width: 100px;
+    }
+    .footer-col {
+        width: 100%;
+    }
+    .footer-col-title h4 {
+        margin-bottom: 10px;
+    }
+    .footer-col + .footer-col {
+        margin-top: 30px;
+    }
+    .footer-desc p, .footer-desc a {
+        font-weight: 300;
+    }
+    .footer-logo-text h3 {
+        font-size: 36px;
+        margin: 3px 0 25px;
+    }
+    .footer-logo-text-label p {
+        font-size: 16px;
+    }
+    .footer-btn {
+        padding-bottom: 30px;
+    }
+    .footer-col-title h4 {
+        font-size: 18px;
+    }
+    .footer-social-icon {
+        padding-top: 35px;
+    }
+    .footer-wrapper {
+        padding: 40px 15px;
+    }
+    .copyright-menu {
+        padding-left: 0px;
+        width: 100%;
+    }
+    .deine-left-side-panel {
+        top: 36px;
+    }
+    .gift-box:after {
+        top: 6px;
+        left: 6px;
+        width: 118px;
+        height: 118px;
+    }
+
+
+    /******************** Leistung Start *********************/
+    .leistung_tab_title{
+        display: none;
+    }
+    .leistung_mobile_slider  .owl-nav{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .leistung_mobile_slider .owl-nav .owl-prev{
+        margin-right: 30px;
+    }
+    .leistung_mobile_slider .owl-nav .owl-next{
+        margin-left: 30px;
+    }
+    .leistung_mobile_slider {
+        margin: 0px;
+    }
+    .leistung_mobile_slider .col-md-6{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .leistung_inner_contain, .leistung_right_section .leistung_inner_contain{
+        justify-content: center;
+    }
+    .leistung_end_contain{
+        flex-direction: column;
+        align-items: center;
+    }
+    .leistung_img_details{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .leistung_img_details p{
+        text-align: center;
+        margin: 10px 0px;
+        max-width: 288px;
+    }
+    .leistung_img {
+        margin-right: 0px;
+        margin-bottom: 15px;
+    }
+    .leistung_margin_bottom{
+        margin-bottom: 20px;
+    }
+    .leistung_main_contain_section {
+        padding-top: 00px;
+    }
+    .beauty_left_blog_section .beauty-blog--inner-image-block {
+        padding: 40px 0px;
+    }
+
+    .haare_dauerhaft_section {
+        padding: 25px 15px;
+    }
+    .haare_dauerhaft_inner h3.haare_header {
+        font-size: 28px;
+    }
+    .haare_dauerhaft_section{
+        margin-top: 50px;
+    }
+    .leistung_page .wir-empfehlen--inner-block {
+        padding-top: 30px;
+    }
+    .nueste_slider_section{
+        flex-direction: column;
+    }
+    .nueste_slider_right_section{
+        order: 1;
+    }
+    .nueste_slider_left_section{
+        order: 2;
+        max-width: 100%;
+    }
+    .nueste_slider_right_section .immer_btn .schon-gewusst-btn{
+        display: none;
+    }
+    .nueste_slider_left_section .immer_btn .schon-gewusst-btn{
+        display: block;
+    }
+    .nueste_details{
+        margin-top: 60px;
+    }
+    .nueste_details{
+        width: 100%;
+        text-align: center;
+    }
+    .nueste_slider_right_section{
+        max-width: 100%;
+    }
+    .nueste_slider_section .owl-nav{
+        bottom: -30px;
+    }
+    .nueste_details p{
+        max-width: 575px;
+        text-align: center;
+        margin: 0 auto; 
+        margin-top: 30px;
+    }
+    .nueste_main_slider_section .common-title h3{
+        text-align: center;
+    }
+    .nueste_slider_section .owl-nav{
+        position: relative;
+        margin: 0 auto;
+        right: 0px;
+    }
+    .nueste_slider_section .owl-nav {
+        width: 120px;
+    }
+    .nueste_slider_right_section{
+        padding-left: 0px;
+    }
+    .nueste_slider_section{
+        padding: 0px;
+    }
+    .nueste_details{
+        padding: 0 15px;
+    }
+    .nueste_main_slider_section .big-title{
+        margin-bottom: -35px;
+    }
+    .nueste_slider_section{
+        padding: 0 15px;
+    }
+    .box_title, .box_title_1X{
+        text-align: center;
+    }
+    .paket_box_inner_section {
+        margin: 50px 10px 15px;
+    }
+    .karte_contain p {
+        font-size: 24px;
+    }
+    .box_big_contain {
+        font-size: 32px;
+    }
+    .schon-gewusst-btn {
+        margin-top: 10px;
+    }
+    .box_title {
+        margin-top: 30px;
+    }
+    .behandlung_section .beauty-blog--inner-image-block{
+        padding: 40px 0;
+    }
+    /******************** Leistung End *********************/
+
+    /******************** Preis Start *********************/
+    .gutschein_left_pad{
+        padding-left: 15px;
+    }
+    .gutschein_right_pad{
+        padding-right: 15px;
+    }
+    .gutschein_section{
+        border: 2px solid var(--white-color);
+        max-width: 575px;
+        margin: 0 auto;
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+    .gutschein_inner_section{
+        justify-content: center;
+    }
+    .gutschein_contain h3, .gutschein_contain p{
+        text-align: left;
+    }
+    .beauty_card_section p{
+        display: inline-block;
+    }
+    .beauty_card_section p:after{
+        width: 110%;
+    }
+
+    .beauty_price_left{
+        width: 100%;
+        border-right: none;
+    }
+    .beauty_price_right{
+        display: none;
+    }
+    .beauty_price_table .beauty_table_list{
+        display: block;
+    }
+    .beauty_top_bar {
+        max-width: 465px;
+    }
+    .beauty_top_bar_fill {
+        padding: 10px 40px 10px 30px;
+    }
+    .beauty_price_table .owl-nav .owl-next{
+        right: -30px;
+    }
+    .beauty_price_left{
+        padding: 0px;
+    }
+    .beauty_price_border {
+        padding: 55px 15px 20px;
+    }
+    .beauty_top_item a {
+        font-size: 18px;
+    }
+    .beauty_price_table {
+        padding: 60px 0 0;
+    }
+    .beauty_price_table .beauty_table_list_main{
+        margin-top: unset;
+    }
+    .beauty_price_table .beauty_price_left ul li + li, 
+    .beauty_price_table .beauty_price_right ul li + li {
+        margin-top: 30px;
+    }
+    .preis_angebote .paket_box_section{
+        padding-top: 30px;
+    }
+    .preis_beauty_btn {
+        margin-bottom: 40px;
+    }
+    /******************** Preis End *********************/
+
+    /******************* Contact Page Start ******************/
+    /* Banner Section Start */
+    .contact-page-section .banner-social-icons {
+        margin: 0 auto;
+    }
+    .moblie-banner-title {
+        display: block;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    /* Banner Section End */
+
+    /* Contact Section Start */
+    .contact_section .location .location-img-outer,
+    .contact_section .call .call-img-outer,
+    .contact_section .clock .clock-img-outer {
+        padding: 7px;
+    }
+    .contact_section .location .location_img,
+    .contact_section .call .call_img,
+    .contact_section .clock .clock-img {
+        padding: 12px;
+    }
+    .contact-common-img {
+        width: 100px;
+    }
+    /* Contact Section End */
+
+    /* Form Section Start */
+    .form_section .form-title h2 {
+        font-size: 28px;
+    }
+    .form_section .full-name {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .form_section .full-name input {
+        width: 100%;
+    }
+    .form-bottom {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .form-btn {
+        padding-top: 10px;
+    }
+    .form-top-img {
+        width: 100px;
+        margin: 0 auto;
+    }
+    .form-btn .cm-btn {
+        width: 100%;
+    }
+    .contact-form .form-bottom .cm-btn {
+        background-color: var(--white-color);
+    }
+    .contact-form .form-bottom .cm-btn span {
+        color: var(--dark-wood);
+    }
+    .contact-form .form-bottom .cm-btn:after {
+        background-color: var(--black-color);
+    }
+    .contact-form .form-bottom .cm-btn:hover span {
+        color: var(--white-color);
+    }
+    /* Form Section End */
+    /******************* Contact Page End ******************/
+
+    /******************* News Page Start ******************/
+    /* Service Card Section Start */
+    .btn_in_desktop {
+        display: none;
+    }
+    .btn_in_mobile {
+        display: block;
+    }
+    .service_card {
+        margin: 0 auto;
+    }
+    .service_image {
+        height: 500px;
+    }
+    .service_info_box .service_box_paragraph p {
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        overflow: hidden;
+        margin-bottom: 10px;
+        -webkit-box-orient: vertical;
+    }
+    .service_box_title h3 {
+        font-size: 20px;
+    }
+    .service_info_box {
+        bottom: 45px;
+    }
+    .modal-dialog {
+        margin-top: 70px;
+    }
+    .modal_closebtn {
+        top: -55px;
+    }
+    .service_section {
+        padding: 30px 0;
+    }
+    .service_card_section .card_gap {
+        row-gap: 35px;
+    }
+    /* Service Card Section End */
+    /******************* News Page End ******************/
+
+    /******************* Uber Page Start ******************/
+    /* Unser team Section Start */
+    .unser_team_section .unser_team_title h2,
+    .gallery_section .gallary_title h2 {
+        font-size: 33px;
+    }
+    .unser_team_section .unser_team_title span {
+        font-size: 20px;
+    }
+    .unser_team_section .unser_team_title h2,
+    .gallery_section .gallary_title h2 {
+        font-size: 28px;
+    }
+    .unser_team_section .unser_team_title span {
+        font-size: 18px;
+    }
+    .unser_team_section .unser_team_cards {
+        padding: 35px 0;
+    }
+    /* Unser team Section End */
+
+    /* Gallary Section End */
+    .gallery_section .gallery_second_section,
+    .gallery_section .gallery_right_side,
+    .gallery_section .bottom_brush_img,
+    .gallery_section .right_side_title_desktop,
+    .gallery_section .gallary_title {
+        display: none;
+    }
+    .gallery_section .gallary_title_mobile,
+    .gallery_section .right_side_title_mobile {
+        display: block;
+        color: var(--white-color);
+    }
+    .gallery_section .gallery_left_side {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .gallery_section .left_side_img {
+        max-width: 100%;
+    }
+    .gallery_section .right_side_info {
+        max-width: 100%;
+        text-align: center;
+        padding: 30px 20px;
+    }
+    .gallery_section .right_side_info p {
+        max-width: 74%;
+        margin: 0 auto;
+    }
+    .gallery_section .top_brush_img {
+        top: 120px;
+    }
+    .gallery_section .gallary_title_mobile span {
+        max-width: 80%;
+        margin: 0 auto;
+        display: inline-block;
+    }
+    .gallery_section .right_side_info p,
+    .gallery_section .gallary_title_mobile span {
+        font-size: 20px;
+        padding: 20px 0px;
+        font-weight: var(--ff-noto-tc-light);
+    }
+    .gallery_section .gallery_third_section {
+        display: none;
+    }
+    .gallery_section .gallery_back_color_section {
+        margin-top: 0;
+    }
+    .gallery_section .gallery_back_color_section::after {
+        height: 100%;
+    }
+    .gallery_section {
+        padding-bottom: 10px;
+    }
+
+    .call-outer{
+        margin: 50px 0px;
+    }
+    .contact_section .contact-common-img {
+        margin-bottom: 15px;
+    }
+    /* Gallary Section End */
+    /******************* Uber Page End ******************/
+}
+@media(max-width:640px){
+    .haare_dauerhaft_inner .wollen-termin-btn a{
+        display: block;
+    }
+    .haare_dauerhaft_inner .wollen-btn{
+        margin-bottom: 15px;
+    }
+    .box_title{
+        max-width: 200px;
+    }
+}
+
+@media screen and (max-width: 575px){
+    .beauty_top_item a.active{
+        color: var(--dark-wood);
+    }
+    .beauty_top_item a:hover{
+        color: var(--dark-wood);
+    }
+    .beauty_three_slider .owl-nav .owl-prev{
+        margin-right: 20px;
+    }
+    .beauty_three_slider .owl-nav .owl-next{
+        margin-left: 20px;
+    }
+    .behandlung_section .beauty-blog--right-col .common-title  h3{
+        text-align: center;
+        margin: 0 auto;
+        max-width: 340px;
+    }
+    .beauty-blog--inner-image-block{
+        margin-bottom: 0px;
+        margin-top: 40px;
+    }
+    .beauty_blog_list ul li{
+        align-items: flex-start;
+    }
+    .gutschein_section {
+        margin-top: 25px;
+    }
+    .leistung_page .nueste_main_slider_section,
+    .leistung_page .leistung-beauty-blog-section,
+    .leistung_page .behandlung_section, 
+    .leistung_page .beauty_left_blog_new_section, 
+    .leistung_page .beauty_left_blog_section {
+        padding-top: 40px;
+    }
+    .box_title{
+        max-width: unset;
+    }
+    .nueste_slider_section{
+        padding: 0 0px;
+    }
+    .owl-theme .owl-dots .owl-dot span{
+        margin: 5px;
+    }
+    .menu-toggle-btn {
+        width: 30px;
+    }
+    .banner--right-img::after {
+        z-index: -1;
+        border: 2px solid var(--spring-wood);
+        top: 15px;
+        left: 15px;
+    }
+    .banner--left .main_title {
+        font-size: 36px;
+    }
+    .banner--left .subtext {
+        font-size: 16px;
+    }
+    .banner--right-img {
+        margin-right: 15px;
+        z-index: 1;
+    }
+    .kontakt-modal-block .modal-lg {
+        margin: 60px 1rem 1rem;
+        max-width: 100%;
+    }
+    .kontakt-modal-block .modal-body {
+        padding: 45px 20px;
+    }
+    .kontakt-email-number-block p {
+        width: 100%;
+    }
+    .kontakt-email-number-block {
+        flex-wrap: wrap;
+    }
+    .kontakt-email-number-block p + p{
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .bewertungen-message-single {
+        padding-top: 40px;
+    }
+    .quote-icon svg{
+        max-width: 20px;
+    }
+    .bewertungen-name {
+        font-size: 20px;
+    }
+    .bewertungen-star-icon i.fa-star {
+        font-size: 13px;
+    }
+    .quote-desc {
+        font-size: 16px;
+    }
+    .online-left-banner {
+        height: 330px;
+    }
+    .online-left-inner:after {
+        min-height: 330px;
+    }
+    .online-right-inner {
+        padding: 40px 15px 0;
+    }
+    .jetzt--inner-left-image img {
+        max-height: 300px;
+    }
+    .auf-alles-title h3 {
+        font-size: 35px;
+    }
+    .auf-alles-line-img {
+        padding: 15px 0;
+    }
+    .auf-alles-line-img img {
+        max-width: 65px
+    }
+    .ribbon-img-block {
+        max-width: 120px;
+    }
+
+    .auf-alles-desc p {
+        font-size: 18px;
+    }
+    .quiz-gewinnspiel-white-box {
+        padding: 30px 20px;
+    }
+    .beauty-blog-shape-img {
+        max-width: 180px;
+        top: -20px;
+    }
+    .faq-owl.owl-theme .owl-dots .owl-dot span {
+        margin: 8px;
+    }
+    .kp-col {
+        width: 100%;
+    }
+    .kp-col:nth-child(2) {
+        display: none;
+    }
+    .kostenlose-probe-box {
+        max-width: 416px;
+        margin: 0 auto;
+    }
+    .haut-pflege-desc p span {
+        display:block;
+    }
+
+    /******************** Leistung Start *********************/
+    .leistung_mobile_slider .owl-nav .owl-prev{
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 0px;
+    }
+    .leistung_mobile_slider .owl-nav .owl-next{
+        position: absolute;
+        right: 0px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .leistung_mobile_slider .owl-theme .owl-dots .owl-dot span{
+        margin: unset;
+    }
+    .beauty_left_blog_section .beauty-blog--inner-image-block {
+        padding: 25px 0px;
+    }
+    .beauty_left_blog_section .beauty-blog--left-col {
+        width: 100%;
+    }
+
+    .jam_block{
+        display: none;
+    }
+    .jam_none{
+        display: block;
+    }
+    .beauty_blog_list ul{
+        margin: 0 0 20px;
+    }
+    .beauty_left_blog_section {
+        padding: 40px 0 0px;
+    }
+    .beauty_left_blog_section .beauty-blog--right-col .common-title{
+        max-width: 370px;
+        margin: 0 auto 30px;
+    }
+    .beuty_down_angle{
+        left: 50%;
+    }
+    .beauty_left_blog_section .schon-gewusst-btn{
+        margin: 0 auto; 
+    }
+    .haare_dauerhaft_section{
+        display: none;
+    }
+    .haare_dauerhaft_inner .haare_content{
+        padding: 15px;
+    }
+    .haare_content .bold-weight, .haare_content > p{
+        font-size: 16px;
+    }
+
+
+    .nueste_details {
+        margin-top: 20px;
+    }
+    .nueste_details p{
+        margin-top: 15px;
+    }
+    .nueste_details p{
+        max-width: 285px;
+    }
+    .nueste_main_slider_section .owl-theme .owl-nav.disabled+.owl-dots{
+        margin-top: 30px;
+    }
+    .owl-theme .owl-dots .owl-dot span {
+        margin: 15px;
+    }
+    .paket_box_section {
+        padding: 30px 0 0px;
+    }
+    .angebote_bg_section{
+        padding: 60px 0px;
+    }
+    .angebote_bg_section:after{
+        width: 100%;
+        height: 100%;
+    }
+    .angebote_bg_section .big-title{
+        display: none;
+    }
+    .paket_box_inner_section {
+        margin: 40px 35px 15px;
+    }
+    .karte_contain {
+        padding: 5px 15px;
+    }
+    .angebote_bg_section .owl-nav .owl-prev {
+        position: absolute;
+        left: 5px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .angebote_bg_section .owl-nav .owl-next {
+        position: absolute;
+        right: 5px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .box_title, .box_title_1X,
+    .box_big_contain,
+    .box_pluse{
+        color: var(--white-color); 
+    }
+    .paket_box_inner_section{
+        background-color: var(--dark-wood);
+    }
+    .behandlung_section .beauty-blog--inner-image-block{
+        padding: 25px 0;
+    }
+
+    /******************** Leistung End *********************/
+
+    /******************** preis Start *********************/
+    .beauty_top_bar {
+        max-width: unset;
+        width: 80%;
+    }
+    .beauty_price_table_fill {
+        top: -33px;
+    }
+    .beauty_price_table {
+        padding: 40px 0 0;
+    }
+    .preis_angebote .angebote_bg_section {
+        padding: 0px 0px;
+    }
+    .preis_page .kostenlose-probe-section{
+        padding-top: 40px;
+    }
+    .beauty_price_table:after{
+        display: none;
+    }
+    .preis_angebote{
+        padding: 60px 0px;
+        background-color: var(--spring-wood);
+    }
+    .preis_beauty_btn{
+        margin-top: 15px;
+    }
+    /******************** preis Start *********************/
+
+    /******************* Contact Page Start ******************/
+    /* Contact Section Start */
+    .contact-page-section .banner-social-icons {
+        max-width: 215px;
+        padding-bottom: 25px;
+    }
+    .contact-page-section .banner--left .banner--content {
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        overflow: hidden;
+        margin-bottom: 40px;
+        -webkit-box-orient: vertical;
+    }
+    .contact-common-img {
+        width: 90px;
+    }
+    .contact_section {
+        padding: 50px 0;
+    }
+    /* Contact Section End */
+
+    /* Map Section Start */
+    .map_section .contact_map_section iframe {
+        height: 327px;
+    }
+    /* Map Section End */
+
+    /* Form Section Start */
+    .form-top-img {
+        width: 70px;
+        margin: 0 auto;
+    }
+    .form-bottom .form_group .round label {
+        color: var(--black-color);
+        padding-left: 10px;
+    }
+    .form-bottom {
+        padding-top: 10px;
+    }
+    .form_section .form-title h2 {
+        text-align: center;
+        padding-top: 15px;
+    }
+    .form-bottom .form_group .round label:before {
+        width: 20px;
+        height: 20px;
+    }
+    .form-bottom .form_group .round label:before {
+        top: 3px;
+    }
+    .form-bottom .form_group .round label:after {
+        height: 13px;
+        width: 13px;
+        top: 6px;
+    }
+    .form_section {
+        padding: 50px 0;
+    }
+    .form_section .input-boxes input,
+    .form_section .combo-inputbox textarea {
+        padding: 13px 13px;
+    }
+    .textarea-for-desktop {
+        display: none;
+    }
+    .textarea-for-mobile {
+        display: block;
+    }
+    /* Form Section End */
+    /******************* Contact Page End ******************/
+
+    /******************* News Page Start ******************/
+    .news_page_banner .banner--content {
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .innerbox_paragraph p {
+        display: -webkit-box;
+        -webkit-line-clamp: 12;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        font-size: 16px;
+    }
+    .service_innerbox {
+        left: 0;
+        top: 50%;
+        right: 0;
+        height: 85%;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        max-width: 80%;
+        margin: 0 auto;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+    .service_image:after {
+        height: 92%;
+        width: 90%;
+        border: 1px solid var(--spring-wood);
+    }
+    .service_card_img::after {
+        border: 1px solid var(--spring-wood);
+    }
+    .service_info_box {
+        left: 0;
+        top: 50%;
+        right: 0;
+        height: 70%;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        max-width: 80%;
+        margin: 0 auto;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+    .service_box_paragraph {
+        padding: 0;
+    }
+    .service_modal .modal:before {
+        height: auto;
+    }
+    .service_modal .modal_closebtn {
+        top: -55px;
+    }
+    .service_modal .modal_title h3 {
+        font-size: 20px;
+    }
+    .service_modal .modal_social_icons {
+        max-width: 50%;
+    }
+    .service_modal .modal-dialog {
+        margin-top: 40px;
+        vertical-align: top;
+    }
+    .service_modal .modal_body {
+        padding: 20px;
+    }
+    .service_modal .modal_footer h5 {
+        font-size: 17px;
+    }
+    .service_modal .modal_title {
+        padding-bottom: 10px;
+    }
+    .service_modal .modal_paragraph p {
+        font-size: 16px;
+        padding: 0;
+    }
+    .service_modal .modal_img::after {
+        width: 93%;
+    }
+    .service_box_paragraph p {
+        margin-bottom: 0px;
+        max-width: 95%;
+    }
+    .service_innerbox .innerbox_paragraph {
+        max-width: 100%;
+        margin: 0 auto;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .service_modal .modal-dialog{
+        margin-top: 80px;
+    }
+    /******************* News Page End ******************/
+
+    /******************* Uber Page Start ******************/
+    /* Unser team Section Start */
+    .unser_team_section .unser_card_img {
+        max-width: 245px;
+    }
+    .unser_team_cards {
+        margin: 0;
+    }
+    .unser_team_section .unser_card {
+        padding-bottom: 20px;
+    }
+    .unser_team_slider.owl-theme .owl-nav button.owl-prev,
+    .unser_team_slider.owl-theme .owl-nav button.owl-next {
+        position: absolute;
+        top: 33%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+    .unser_team_slider.owl-carousel .owl-nav button.owl-prev {
+        left: 0px;
+    }
+    .unser_team_slider.owl-carousel .owl-nav button.owl-next {
+        right: 0px;
+    }
+    .unser_team_slider.owl-carousel .owl-nav button.owl-next,
+    .unser_team_slider.owl-carousel .owl-nav button.owl-prev {
+        position: absolute;
+    }
+    .unser_team_slider.owl-theme .owl-dots .owl-dot span {
+        margin: 5px 10px;
+    }
+    .unser_team_section .bg_image_top,
+    .unser_team_section .bg_image_bottom {
+        display: none;
+    }
+    .unser_team_section .team_title span {
+        font-size: 15px;
+    }
+    .unser_team_section .team_arow_link span {
+        font-size: 20px;
+    }
+    .unser_team_section .unser_team_cards {
+        padding-bottom: 0;
+    }
+    /* Unser team Section End */
+    /* Gallery Section Start */
+    .gallery_section .gallary_title_mobile span,
+    .gallery_section .right_side_title_mobile,
+    .gallery_section .right_side_info p {
+        font-size: 16px;
+    }
+    .gallery_section .gallary_title_mobile span {
+        padding-bottom: 30px;
+    }
+    .gallery_section .gallary_title_mobile h2 {
+        font-size: 28px;
+    }
+    .gallery_section .right_side_info {
+        padding: 20px;
+    }
+    .gallery_section .right_side_info p {
+        padding: 15px 0;
+        max-width: 100%;
+    }
+    .gallery_section .top_brush_img {
+        width: 18%;
+    }
+    
+    .call-outer {
+        margin: 40px 0px;
+    }
+    .beauty_price_table_fill {
+        padding: 15px;
+        margin: 0 -15px;
+    }
+
+    /*.header-wrapper.fix-header .home-modal-trigger{
+        position: fixed;
+        top: 8px;
+        z-index: 121;
+    }*/
+
+    .header-wrapper .logo-block .home-modal-trigger{
+        display: none;
+    }
+    .header-wrapper.fix-header .logo-block{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .header-wrapper.fix-header .home-modal-trigger {
+        position: unset;
+    }
+    .header-wrapper.fix-header .menu-toggle-btn{
+        position: unset;
+    }
+    .header-wrapper.fix-header .home-modal-trigger{
+        display: block;
+    }
+    .jam_block_btn{
+        display: block;
+    }
+
+    /* Gallery Section End */
+    /******************* Uber Page End ******************/
+
+}
+@media screen and (max-width: 480px) {
+    /******************* Contact Page Start ******************/
+    /* Form Section Start */
+    .form-bottom .form_group .round label {
+        max-width: 80%;
+    }
+    .form-bottom .form_group .round label:before {
+        top: 6px;
+    }
+    .form-bottom .form_group .round label:after {
+        top: 10.3px;
+    }
+    /* Form Section End */
+    /******************* Contact Page End ******************/
+    /******************* News Page Start ******************/
+    .service_modal .modal_social_icons {
+        max-width: 65%;
+    }
+    /******************* News Page End ******************/
+}
+
+@media screen and (max-width: 450px){
+    .mobile-wir-btn {
+        display: block;
+        width: 100%;
+    }
+    .wir-empfehlen-img {
+        width: 90px;
+    }
+    .wir-empfehlen-content {
+        width: calc(100% - 90px);
+        text-align: left;
+    }
+    .mobile-wir-btn .cm-btn {
+        width: 100%;
+        max-width: 100%;
+        font-size: 20px;
+    }
+    .wir-empfehlen--inner--box {
+        padding: 50px 30px 15px;
+        align-items: center;
+    }
+    .wir-empfehlen-content .wir-btn{
+        display: none;
+    }
+    .wir-title h4 {
+        font-size: 18px;
+    }
+    .wir-btn {
+        margin-top: 15px;
+    }
+    .wir-empfehlen-label {
+        min-width: 110px;
+        font-size: 14px;
+    }
+    .cm-btn, .footer-btn .cm-btn {
+        padding: 10px 10px;
+    }
+    .footer-white--box {
+        padding: 15px;
+    }
+    .cm-btn .cm-btn span, .cm-btn .cm-btn{
+        transition: unset;
+    }
+    .beauty_card_section p:after {
+        width: 102%;
+    }
+
+}
+
+
+@media screen and (max-width: 400px){
+    .beauty_three_slider .owl-nav .owl-prev{
+        margin-right: 15px;
+    }
+    .beauty_three_slider .owl-nav .owl-next{
+        margin-left: 15px;
+    }
+    .kontakt-btn-block ul li a, .kontakt-email-number-block p {
+        font-size: 15px;
+    }
+    .cm-btn, .quiz-gewinnspiel-btn .cm-btn, .online-btn .cm-btn, .schon-gewusst-btn .cm-btn {
+        max-width: 100%;
+        width: 100%;
+    }
+    .nueste_details, .nueste_main_slider_section .owl-theme .owl-nav.disabled+.owl-dots{
+        margin-top: 15px;
+    }
+    .paket_box_inner_section {
+        margin: 40px 10px 15px;
+    }
+    .angebote_bg_section .owl-nav .owl-next{
+        right: -10px;
+    }
+    .angebote_bg_section .owl-nav .owl-prev{
+        left: -10px;
+    }
+    .karte_contain p {
+        font-size: 22px;
+    }
+    .karte_box_border{
+        top: -31.5px;
+    }
+    .paket_box_details{
+        padding: 10px;
+    }
+    .angebote_bg_section {
+        padding: 30px 0px;
+    }
+    .haare_dauerhaft_inner h3.haare_header{
+        font-size: 22px;
+    }
+    .haare_dauerhaft_inner h4.haare_subtext{
+        font-size: 20px;
+    }
+
+    /******************** preis Start *********************/
+    .gutschein_contain h3 {
+        font-size: 22px;
+    }
+    .percentage_section p {
+        font-size: 70px;
+    }
+    .beauty_card_section p {
+        font-size: 15px;
+    }
+
+    .gutschein_rotact_section span + span {
+        margin-left: 4px;
+    }
+    .gutschein_section{
+        margin: 15px 0 20px;
+    }
+    .beauty_top_bar {
+        max-width: 300px;
+    }
+    .beauty_price_left ul li{
+        flex-direction: column;
+        align-items: unset;
+    }
+    .beauty_price_table .beauty_price_new{
+        display: flex;
+        flex-direction: row;
+        align-items: flex-end;
+    }
+    .beauty_price_new h4{
+        margin-left: 15px;
+    }
+    .beauty_title p{
+        font-size: 16px;
+        max-width: 262px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .beauty_price_border{
+        padding: 55px 30px 20px;
+    }
+    .beauty_title h3 {
+        font-size: 18px;
+    }
+    .beauty_price_new h4 {
+        font-size: 24px;
+    }
+
+    .preis_angebote{
+        padding: 40px 0px;
+    }    
+    /******************** preis End *********************/
+
+}
+
+
+@media screen and (max-width: 375px){
+    .leistung_mobile_slider .owl-nav .owl-prev{
+        left: -8px;
+    }
+    .leistung_mobile_slider .owl-nav .owl-next{
+        right: -8px;
+    }
+    .beauty_blog_list ul li p, .beuty_slide_contain p{
+        font-size: 15px;
+    }
+    .immer_btn .schon-gewusst-btn .cm-btn{
+        max-width: 100%;
+    }
+
+    /******************** preis Start *********************/
+    .gutschein_contain p{
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    .percentage_section p {
+        font-size: 54px;
+    }
+    .gutschein_contain h3 {
+        font-size: 18px;
+    }
+    .beauty_card_section p {
+        font-size: 12px;
+    }
+    .gutschein_rotact_section {
+        margin: 0px 0px;
+    }
+
+    .beauty_price_border {
+        padding: 55px 20px 20px;
+    }
+
+    .service_modal .modal_social_icons {
+        max-width: 70%;
+    }
+    /******************** preis End *********************/
+}
+
+@media screen and (max-width: 367px){
+    .logo-block a {
+        font-size: 20px;
+    }
+    .home-modal-trigger a {
+        width: 45px;
+        height: 45px;
+    }
+    .banner--left .main_title {
+        font-size: 30px;
+    }
+    .banner--left .banner--content {
+        font-size: 16px;
+    }
+    .beauty-section .beauty_title h2 {
+        font-size: 31px;
+    }
+    .beauty_title .vertical_line {
+        top: 60px;
+    }
+    .deine-image img {
+        min-height: 310px;
+        max-height: 300px;
+    }
+    .deine-left-side-panel {
+        max-width: 200px;
+        height: 350px;
+    }
+    .online-left-banner {
+        height: 220px;
+    }
+    .online-left-inner:after {
+        min-height: 230px;
+        width: calc(100% - 70px);
+    }
+    .auf-alles-btn {
+        padding: 0 15px;
+    }
+    .ribbon-img-block {
+        max-width: 80px;
+    }
+    .wir-empfehlen--inner--box {
+        padding: 50px 15px 15px;
+    }
+
+    .footer-logo-text h3 {
+        font-size: 30px;
+        margin: 3px 0 15px;
+    }
+    .footer-white--box {
+        padding: 20px 15px;
+    }
+    .cm-btn, .mobile-wir-btn .cm-btn {
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 360px) {
+    /******************* Uber Page Start ******************/
+    /* Unser team Section Start */
+    .unser_team_slider.owl-carousel .owl-nav button.owl-prev {
+        left: -10px;
+    }
+    .unser_team_slider.owl-carousel .owl-nav button.owl-next {
+        right: -10px;
+    }
+    /* Unser team Section End */
+    /******************* Uber Page End ******************/
+}
+
+@media screen and (max-width: 320px){
+    .fix-header .logo-block a{
+        font-size: 22px;
+    }
+}
